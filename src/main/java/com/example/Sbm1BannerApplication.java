@@ -10,4 +10,7 @@ public class Sbm1BannerApplication {
 		SpringApplication.run(Sbm1BannerApplication.class, args);
 	}
 
+public void m1(){
+}
+
 }
